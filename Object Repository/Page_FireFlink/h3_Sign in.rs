@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Sign in</name>
+   <tag></tag>
+   <elementGuidId>81ad45e9-1e8a-424b-a7dd-df2e438abbdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>0f038d11-a939-43da-912a-c7f2fdcbfe58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> fontPoppinsSemiboldPageHeader </value>
+      <webElementGuid>d42e3349-6dec-4c7f-9352-be4fa4e8e126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in</value>
+      <webElementGuid>ad48f1ad-c55c-423d-bca1-6152388f5f60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;rootClass&quot;]/div[@class=&quot;min-h-screen bg-white flex mainContainer justify-center items-center loginbody&quot;]/div[@class=&quot;flex-1 flex flex-col  relative   sm:px-6 lg:flex-none lg:px-15 xl:px-24 loginbody&quot;]/div[@class=&quot;mx-auto w-full max-w-sm lg:w-96 loginGrid loginMenus&quot;]/div[@class=&quot;gridContent z-10&quot;]/h3[@class=&quot;fontPoppinsSemiboldPageHeader&quot;]</value>
+      <webElementGuid>0ea8de4b-c0c4-4863-89bc-bd7b77b22df4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/h3</value>
+      <webElementGuid>096a94f5-2232-46a0-a0e2-90e461ead1b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The All-in-One Integrated Testing Platform'])[1]/following::h3[1]</value>
+      <webElementGuid>f4bcd819-62d0-423f-b4b1-21a0590d8d3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::h3[1]</value>
+      <webElementGuid>3abac81c-3b72-4a81-be81-c819d13f3e10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign in']/parent::*</value>
+      <webElementGuid>f70ba4e8-c803-4ba3-bd4a-aa1b5a72cd41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>c6f5cf76-861c-4722-88cd-61d26f7a7393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Sign in' or . = 'Sign in')]</value>
+      <webElementGuid>400b474d-6dba-43d1-b710-4ae139d208be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
